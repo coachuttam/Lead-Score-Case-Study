@@ -1,4 +1,5 @@
 # Lead-Score-Case-Study
+![image](https://github.com/user-attachments/assets/d5f2f430-137e-4c8c-a030-dbeb8e9074dd)
 
 ## Problem statement:
 The case study describes the steps in developing the lead scoring model. The lead
